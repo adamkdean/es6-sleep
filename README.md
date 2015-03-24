@@ -11,11 +11,7 @@ To use, let's say while inside some Koa middleware:
     var sleep = require('es6-sleep');
 
     app.use(function *() {
-
         // do something
-
         yield sleep(1000);
-
         // continue
-
     });
