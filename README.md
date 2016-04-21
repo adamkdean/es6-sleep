@@ -38,7 +38,7 @@ To use the promise, let's say with async/await:
         // continue
     })();
 
-# License
+## License
 
 MIT
 
