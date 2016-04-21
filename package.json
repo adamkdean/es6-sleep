@@ -1,7 +1,7 @@
 {
   "name": "es6-sleep",
-  "version": "1.0.2",
-  "description": "ES6 ready sleep function",
+  "version": "2.0.0",
+  "description": "ES6 ready sleep function, provides generator and promise",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
@@ -10,8 +10,8 @@
   "keywords": [
     "sleep",
     "es6",
-    "sleep",
-    "es6"
+    "promise",
+    "generator"
   ],
   "author": "Adam K Dean",
   "license": "MIT",
