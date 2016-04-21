@@ -34,7 +34,7 @@ To use the promise, let's say with async/await:
 
     (async function () {
         // do something
-        yield sleep(1000);
+        await sleep(1000);
         // continue
     })();
 
